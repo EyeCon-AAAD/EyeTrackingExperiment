@@ -12,3 +12,7 @@ The file createDatabaseWithVideo creates a database of cropped eye pictures with
 The file train.py is responsible for training the models.
 The file test.py is responsible for the live gaze estimation from following the mouse location
 The file testWithVideo is responsible for the live gaze estimation from following black points on the screen from the video
+
+Requirments:
+the data folder should be downloaded to the main directory
+
