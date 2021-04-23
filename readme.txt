@@ -14,5 +14,5 @@ The file test.py is responsible for the live gaze estimation from following the 
 The file testWithVideo is responsible for the live gaze estimation from following black points on the screen from the video
 
 Requirments:
-the data folder should be downloaded to the main directory
+the data folder should be downloaded to the main directory. The "data" folder can be found in the dropbox under Dataset
 
